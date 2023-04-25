@@ -1,9 +1,21 @@
 body{
-    background: #d2d2c1 url('imagens/fundo.png');
+    /*background: url('imagens/fundo.png') #d2d2c1;*/
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
 }
 
 #principal{
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+    width: 100%;
 }
+
+#menu{
+    margin-top: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+    background-color: #d2d2c1;
+}
+
